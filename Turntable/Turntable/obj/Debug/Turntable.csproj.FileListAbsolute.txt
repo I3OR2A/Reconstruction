@@ -11,3 +11,6 @@ C:\Users\I3OR2A\Documents\Visual Studio 2012\Projects\Vs_Project\Maker\Turntable
 C:\Users\I3OR2A\Documents\Visual Studio 2012\Projects\Vs_Project\Maker\Turntable\Turntable\obj\Debug\Turntable.csproj.GenerateResource.Cache
 C:\Users\I3OR2A\Documents\Visual Studio 2012\Projects\Vs_Project\Maker\Turntable\Turntable\obj\Debug\Turntable.exe
 C:\Users\I3OR2A\Documents\Visual Studio 2012\Projects\Vs_Project\Maker\Turntable\Turntable\obj\Debug\Turntable.pdb
+C:\Users\I3OR2A\Documents\GitHub\Reconstruction\Turntable\Turntable\bin\Debug\Turntable.exe.config
+C:\Users\I3OR2A\Documents\GitHub\Reconstruction\Turntable\Turntable\obj\Debug\Turntable.exe
+C:\Users\I3OR2A\Documents\GitHub\Reconstruction\Turntable\Turntable\obj\Debug\Turntable.pdb
