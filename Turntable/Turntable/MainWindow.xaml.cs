@@ -29,6 +29,13 @@ namespace Turntable
             
             InitializeComponent();
 
+            sp.DataReceived += new SerialDataReceivedEventHandler(serialPort_DataReceived);
+
+        }
+
+        private void serialPort_DataReceived(object sender, SerialDataReceivedEventArgs e) {
+            String data = sp.ReadLine();
+            Console.Write("datareceived: " + data);
         }
 
         private void on_Click(object sender, RoutedEventArgs e)
@@ -45,7 +52,8 @@ namespace Turntable
         {
             try
             {
-                String portName = comportno.Text;
+                // String portName = comportno.Text;
+                String portName = (string)cbbCOM.SelectedItem;
                 sp.PortName = portName;
                 sp.BaudRate = 9600;
                 sp.Open();
@@ -69,6 +77,20 @@ namespace Turntable
             {
 
                 MessageBox.Show("First Connect and then disconnect");
+            }
+        }
+
+        private void Load_Click(object sender, RoutedEventArgs e)
+        {
+            string[] serialPorts = SerialPort.GetPortNames();
+            cbbCOM.Items.Clear();
+
+            foreach(string serialPort in serialPorts){
+                cbbCOM.Items.Add(serialPort);
+
+                if(cbbCOM.Items.Count > 0){
+                    cbbCOM.SelectedIndex = 0;
+                }
             }
         }     
     }
