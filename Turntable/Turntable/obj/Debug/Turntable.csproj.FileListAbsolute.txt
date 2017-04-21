@@ -27,3 +27,13 @@ C:\Users\RL\Documents\GitHub\Reconstruction\Turntable\Turntable\obj\Debug\Turnta
 C:\Users\RL\Documents\GitHub\Reconstruction\Turntable\Turntable\obj\Debug\Turntable.g.resources
 C:\Users\RL\Documents\GitHub\Reconstruction\Turntable\Turntable\obj\Debug\Turntable.Properties.Resources.resources
 C:\Users\RL\Documents\GitHub\Reconstruction\Turntable\Turntable\obj\Debug\Turntable.csproj.GenerateResource.Cache
+C:\Users\I3OR2A\Documents\GitHub\Reconstruction\Turntable\Turntable\bin\Debug\Turntable.exe
+C:\Users\I3OR2A\Documents\GitHub\Reconstruction\Turntable\Turntable\bin\Debug\Turntable.pdb
+C:\Users\I3OR2A\Documents\GitHub\Reconstruction\Turntable\Turntable\obj\Debug\Turntable.csprojResolveAssemblyReference.cache
+C:\Users\I3OR2A\Documents\GitHub\Reconstruction\Turntable\Turntable\obj\Debug\MainWindow.baml
+C:\Users\I3OR2A\Documents\GitHub\Reconstruction\Turntable\Turntable\obj\Debug\MainWindow.g.cs
+C:\Users\I3OR2A\Documents\GitHub\Reconstruction\Turntable\Turntable\obj\Debug\App.g.cs
+C:\Users\I3OR2A\Documents\GitHub\Reconstruction\Turntable\Turntable\obj\Debug\Turntable_MarkupCompile.cache
+C:\Users\I3OR2A\Documents\GitHub\Reconstruction\Turntable\Turntable\obj\Debug\Turntable.g.resources
+C:\Users\I3OR2A\Documents\GitHub\Reconstruction\Turntable\Turntable\obj\Debug\Turntable.Properties.Resources.resources
+C:\Users\I3OR2A\Documents\GitHub\Reconstruction\Turntable\Turntable\obj\Debug\Turntable.csproj.GenerateResource.Cache

@@ -55,8 +55,9 @@ namespace Turntable
                 // String portName = comportno.Text;
                 String portName = (string)cbbCOM.SelectedItem;
                 int baudRate = Convert.ToInt32(baudrateno.Text);
+                portName = comportno.Text;
                 sp.PortName = portName;
-                sp.BaudRate = 9600;
+                sp.BaudRate = baudRate;
                 sp.Open();
                 status.Text = "Connected";
             }
